@@ -4,7 +4,7 @@ Visor PDF portable para Windows 11 o posterior.
 
 ## Descargar
 
-[Descargar PDFeitor para Windows x64](https://github.com/ricardo-ali/PDFeitor-releases/releases/latest/download/PDFeitor-0.13.0-dev-windows-x64.zip).
+[Descargar PDFeitor para Windows x64](https://github.com/ricardo-ali/PDFeitor-releases/releases/latest/download/PDFeitor-0.14.1-dev-windows-x64.zip).
 Descomprimir el ZIP completo en una carpeta con permiso de escritura y ejecutar PDFeitor.exe. Mantener pdfium.dll y las licencias junto a la aplicación. No necesita instalación ni permisos de administrador.
 
 ## Actualizar
@@ -15,4 +15,4 @@ En la aplicación: clic derecho > Acerca de > Actualizar. Descarga sólo archivo
 
 Código propio bajo MIT; bibliotecas e iconos conservan las licencias incluidas en la distribución. Tesseract OCR es opcional y se descarga por acción explícita desde la aplicación; no está incluido en este paquete.
 
-Este repositorio contiene las distribuciones públicas. Versión de desarrollo: 0.13.0-dev. Las descargas aún no tienen firma Authenticode.
+Este repositorio contiene las distribuciones públicas. Versión de desarrollo: 0.14.1-dev. Las descargas aún no tienen firma Authenticode.
