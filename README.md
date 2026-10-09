@@ -4,7 +4,7 @@ Visor PDF portable para Windows 11 o posterior.
 
 ## Descargar
 
-[Descargar PDFeitor para Windows x64](https://github.com/ricardo-ali/PDFeitor-releases/releases/latest/download/PDFeitor-0.14.1-dev-windows-x64.zip).
+[Descargar PDFeitor para Windows x64](https://github.com/ricardo-ali/PDFeitor-releases/releases/latest/download/PDFeitor-windows-x64.zip).
 Descomprimir el ZIP completo en una carpeta con permiso de escritura y ejecutar PDFeitor.exe. Mantener pdfium.dll y las licencias junto a la aplicación. No necesita instalación ni permisos de administrador.
 
 ## Actualizar
