@@ -19,4 +19,4 @@ Clic derecho > Opciones, o el engranaje de la barra > Inicio Rápido. Al marcarl
 
 Código propio bajo MIT; bibliotecas e iconos conservan las licencias incluidas en la distribución. Tesseract OCR es opcional y se descarga por acción explícita desde la aplicación; no está incluido en este paquete.
 
-Este repositorio contiene las distribuciones públicas. Versión de desarrollo: 0.15.0-dev. Las descargas aún no tienen firma Authenticode.
+Este repositorio contiene las distribuciones públicas. Versión de desarrollo: 0.17.0-dev. Las descargas aún no tienen firma Authenticode.
